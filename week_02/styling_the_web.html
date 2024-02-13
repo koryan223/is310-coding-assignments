@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Page Title Here</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f0f0f0;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
+        .myDiv {
+            background-color: #fff;
+            padding: 20px;
+            margin-top: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to My Page</h1>
+    <div class="myDiv">
+        <p>This is a paragraph inside a div. Notice how the styling applies specifically to elements and classes.</p>
+        <a href="https://www.example.com">Visit Example</a>
+    </div>
+
+    <!-- Optional: Adding some interactivity with JavaScript -->
+    <script>
+        document.querySelector('a').addEventListener('click', function(event) {
+            alert('You clicked the link!');
+            // Preventing the default action of the link
+            event.preventDefault();
+        });
+    </script>
+</body>
+</html>
