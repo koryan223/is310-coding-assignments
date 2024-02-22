@@ -16,11 +16,9 @@ def scrape_dialogue(url):
         soup = BeautifulSoup(response.text, 'html.parser')
         dialogue_text = ' '.join(p.get_text() for p in soup.find_all('p'))
         return dialogue_text[:1000]
-    else:
-        return f'Error: Response code {response.status_code}'
 
 if __name__ == "__main__":
-    input_file_path = '/Users/baboo/Desktop/IS310/is310-coding-assignments/is310-coding-assignments/web_scraping_assignments/cleaned_pudding_data.csv' 
+    input_file_path = 'cleaned_pudding_data.csv' 
     output_file_path = 'pudding_movie_dialogue.csv'
 
     urls = load_urls(input_file_path)
@@ -38,6 +36,4 @@ if __name__ == "__main__":
         writer.writeheader()
         for result in results:
             writer.writerow(result)
-
-    print('Finished scraping. Data saved to', output_file_path)
 
