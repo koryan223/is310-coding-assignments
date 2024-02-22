@@ -14,7 +14,7 @@ def scrape_dialogue(url):
     response = requests.get(url)
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
-        dialogue_text = ' '.join(p.get_text() for p in soup.find_all('p'))
+        dialogue_text = soup.get_text()
         return dialogue_text[:1000]
 
 input_file_path = 'cleaned_pudding_data.csv' 

@@ -1,0 +1,3231 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1403048,
+                "lng": -88.25840600000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.14175832989272,
+                    "lng": -88.25702072010728
+                },
+                "southwest": {
+                    "lat": 40.13905867010727,
+                    "lng": -88.25972037989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Wendy's",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1440,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106721664304419926662\">William Davidson</a>"
+                ],
+                "photo_reference": "ATplDJYByN4S1xsATFWJXcxkKHp-A1yjYyVaqOIPjMG8HItW2aOy-JUz7HPKalzXj1d4VQ97rr0Ja-O3_bebqO3lyOP1jdY3nX7XjTABhfMZrnEF1hE9STy31oLGDRgenRRrxROcpcslNn6j7zHv2mGFZfTH4zVv2WT2y7ObQlvq9G3QmcY",
+                "width": 2560
+            }
+        ],
+        "place_id": "ChIJWT6vUw7aDIgRF3hMoEVwv5s",
+        "plus_code": {
+            "compound_code": "4PRR+4J Champaign, Illinois",
+            "global_code": "86GH4PRR+4J"
+        },
+        "price_level": 1,
+        "rating": 3.4,
+        "reference": "ChIJWT6vUw7aDIgRF3hMoEVwv5s",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 818,
+        "vicinity": "2033 N Prospect Ave, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1377298,
+                "lng": -88.25861789999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.13902367989272,
+                    "lng": -88.25753957010727
+                },
+                "southwest": {
+                    "lat": 40.13632402010727,
+                    "lng": -88.26023922989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Five Guys",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109332360721687871050\">Gene Hinders</a>"
+                ],
+                "photo_reference": "ATplDJYEVqLcAfLsencRtCD331Ttatu-HzuGDmSzDFC7LT1AmGe-23cDfHncSPQUB68ugHVNhKKC4mEOEiuutrZ1G9rqzoVaygGDMcAzpF1Ps2JI5wJNtw-Rz91lD-9JE2HD6N9h8UuzpPFEfLn-YoQ-C84DJb8wJyUzFh2FuT6aDKN6-Nam",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJB8B_1A7aDIgRz7I8huXJBkc",
+        "plus_code": {
+            "compound_code": "4PQR+3H Champaign, Illinois",
+            "global_code": "86GH4PQR+3H"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJB8B_1A7aDIgRz7I8huXJBkc",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1123,
+        "vicinity": "901 B Anthony Dr, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1438671,
+                "lng": -88.2583415
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.14521692989271,
+                    "lng": -88.25699167010728
+                },
+                "southwest": {
+                    "lat": 40.14251727010727,
+                    "lng": -88.25969132989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Chick-fil-A",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109321214862104664614\">Mike Shen</a>"
+                ],
+                "photo_reference": "ATplDJa2pDo9edsUGPpSa9Sxo5Ez4dHaLVvPzyRuaJXJXCdghWtSXwU5pHC-BHxt0SRtZUEQfr9IMjfMEE7d_n-37Y0btW1IhbzT49h2rCizrMTGhm817Qg6ZmygtDzb-5A9AnJFwNtZjfcymowGOnRb_9Mp8tM9tPUBYdGwTfJdzTUGAOoE",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJw3YbibHbDIgROS8dvvXwofU",
+        "plus_code": {
+            "compound_code": "4PVR+GM Champaign, Illinois",
+            "global_code": "86GH4PVR+GM"
+        },
+        "price_level": 1,
+        "rating": 4.5,
+        "reference": "ChIJw3YbibHbDIgROS8dvvXwofU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1798,
+        "vicinity": "2301 N Prospect Ave, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1213748,
+                "lng": -88.2772906
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.12278777989272,
+                    "lng": -88.27604492010728
+                },
+                "southwest": {
+                    "lat": 40.12008812010728,
+                    "lng": -88.27874457989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Sonic Drive-In",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 900,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104759683445569011277\">Sonic Drive-In</a>"
+                ],
+                "photo_reference": "ATplDJaPAAAjuWGYTufp-SbDmqv4c_XWTCnV_ui9NILAKlNPsJ8fEQ67kWuz2C6G69gDJxM6m1gQ8yn-_1ZlHCE7fVfcAkuyvxpzqMU8TdAib00s4rx6s1FrQyaknXAp-oVaKM4CMPL3StVbsf9shgHboEGYELa8DWxJbcweDOKW7_-BvqY",
+                "width": 800
+            }
+        ],
+        "place_id": "ChIJ02IjnI_QDIgR4lpIJkRbGC0",
+        "plus_code": {
+            "compound_code": "4PCC+GX Champaign, Illinois",
+            "global_code": "86GH4PCC+GX"
+        },
+        "price_level": 1,
+        "rating": 4,
+        "reference": "ChIJ02IjnI_QDIgR4lpIJkRbGC0",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1046,
+        "vicinity": "601 N Mattis Ave, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1161399,
+                "lng": -88.2202846
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.11762972989273,
+                    "lng": -88.21901842010728
+                },
+                "southwest": {
+                    "lat": 40.11493007010728,
+                    "lng": -88.22171807989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Dairy Queen Grill & Chill",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108000745920178118547\">Jason Cadell</a>"
+                ],
+                "photo_reference": "ATplDJZKY8jhWI7V9-idvcq65QBetHvUc8qIntbhvhPp00BQZL1Dalu3-CCqYOWpWDiSShowbXjvcXB_xY1MYtF49IV9jeLwJAjKfgSWm5KIWVD-e_6K3jyIUpiamPvOU-VT7uqW8FPf6tWyMpYL3vidJNxsfL2lSKwtwojFX-gTOCtKIg2F",
+                "width": 4608
+            }
+        ],
+        "place_id": "ChIJGalvnm7XDIgRBtQWj9m5_Xw",
+        "plus_code": {
+            "compound_code": "4Q8H+FV Urbana, Illinois",
+            "global_code": "86GH4Q8H+FV"
+        },
+        "price_level": 1,
+        "rating": 4.2,
+        "reference": "ChIJGalvnm7XDIgRBtQWj9m5_Xw",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 543,
+        "vicinity": "911 W University Ave, Urbana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1375696,
+                "lng": -88.2430711
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.13893487989272,
+                    "lng": -88.24182232010726
+                },
+                "southwest": {
+                    "lat": 40.13623522010728,
+                    "lng": -88.24452197989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "McDonald's",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103849667177285329846\">A Google User</a>"
+                ],
+                "photo_reference": "ATplDJYzV6ADFVLb5VUwCmrzLqSa1BpwMuLlZAKuTZGnj7Ky0s2NkkmC1AFLD4M61xt_0vUIovAFQRz2gp9tV_4-0zuLyJfcINLFjzso-iB_zv9K-WmbBDb9g7JkUDNHPypvj2IB5rdfRZ0ETxc87BsH0aLdFDhbtu23mhDBuqtOy-odYcHS",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJZS8hKvnZDIgRVja1xHExgTU",
+        "plus_code": {
+            "compound_code": "4QQ4+2Q Champaign, Illinois",
+            "global_code": "86GH4QQ4+2Q"
+        },
+        "price_level": 1,
+        "rating": 3.5,
+        "reference": "ChIJZS8hKvnZDIgRVja1xHExgTU",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1283,
+        "vicinity": "1812 N Neil St, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1162398,
+                "lng": -88.2086908
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.11766602989272,
+                    "lng": -88.20735307010726
+                },
+                "southwest": {
+                    "lat": 40.11496637010728,
+                    "lng": -88.21005272989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Windy City Express",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3120,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106859045081623225294\">micheal groves</a>"
+                ],
+                "photo_reference": "ATplDJa6kV1umEN-C-4XXY6gsJ3Yw14KMTfm1XR9065ZBT-qvv7spXz9emIawgoBlKRUXdJhXU64cDSKJr6IwX_0BRsRDbEyhW33LcqLBZI2Maa8Zh8ReonbwLl9jdpkUPGhf5ljUXUBKyDcTSyTyDG3CzRiz2xnl7KcoISqmvaTpb_epDgL",
+                "width": 4160
+            }
+        ],
+        "place_id": "ChIJK1bMdXbXDIgRLISjCVFVpWQ",
+        "plus_code": {
+            "compound_code": "4Q8R+FG Urbana, Illinois",
+            "global_code": "86GH4Q8R+FG"
+        },
+        "price_level": 1,
+        "rating": 4.4,
+        "reference": "ChIJK1bMdXbXDIgRLISjCVFVpWQ",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 637,
+        "vicinity": "410 N Race St, Urbana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1172455,
+                "lng": -88.2050979
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.11870832989272,
+                    "lng": -88.20381377010729
+                },
+                "southwest": {
+                    "lat": 40.11600867010728,
+                    "lng": -88.20651342989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Wendy's",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 459,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108838116311618468563\">Wendy&#39;s</a>"
+                ],
+                "photo_reference": "ATplDJbZ6vDtFoK4ulgIf-_7UrKRMjWvgQ2sbISHoNcPiEXBEz4RNui75ea2jVNXtiEfEJHwkrzBh4EductMuiDu4JYHwTH69T9hXRXEs6NbDuLWMNz6SjtCix-WBSGS8H4FVN5KYEsdC_ZXspl2CVk7MPysPCYqX-ifzVw-NFu7gfblJrhZ",
+                "width": 816
+            }
+        ],
+        "place_id": "ChIJ9e66yZ3XDIgRetwDl1illhk",
+        "plus_code": {
+            "compound_code": "4Q8V+VX Urbana, Illinois",
+            "global_code": "86GH4Q8V+VX"
+        },
+        "price_level": 1,
+        "rating": 3.6,
+        "reference": "ChIJ9e66yZ3XDIgRetwDl1illhk",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1147,
+        "vicinity": "505 N Cunningham Ave, Urbana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.120572,
+                "lng": -88.27742099999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.12192327989272,
+                    "lng": -88.27595867010726
+                },
+                "southwest": {
+                    "lat": 40.11922362010728,
+                    "lng": -88.2786583298927
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "McDonald's",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111546027268183663151\">Derrick Clark</a>"
+                ],
+                "photo_reference": "ATplDJbh37Bqfm8vxYFbmtpaclzBO08-WXX9qc6cKg58YusMoBvsGCmB-ZpP3gDKyyNSVOprh5cFz4fYbOEaGswc_63dnqwRtSrL8vK1IutVi4oBrLRIlrq8jyzmFvphZk8S9QbzdbTAPyUZHPskC547zkPzfW4JMQqOv7Url6WZBrpjkCyn",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJrWwgpI_QDIgRnTRLiGKf3w0",
+        "plus_code": {
+            "compound_code": "4PCF+62 Champaign, Illinois",
+            "global_code": "86GH4PCF+62"
+        },
+        "price_level": 1,
+        "rating": 3.4,
+        "reference": "ChIJrWwgpI_QDIgRnTRLiGKf3w0",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 866,
+        "vicinity": "501 N Mattis Ave, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.0583309,
+                "lng": -88.2513914
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.05967897989272,
+                    "lng": -88.24996112010727
+                },
+                "southwest": {
+                    "lat": 40.05697932010727,
+                    "lng": -88.25266077989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Sonic Drive-In",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 720,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110444324984479559036\">Sonic Drive-In</a>"
+                ],
+                "photo_reference": "ATplDJY5JvLprMiyAHfQdOIMv_eTnvs8oyFUqIJ1m283tBqvKxGdRSNCql5O3s4rYpqw5gClQ8oZVTCmGevxmqqRfzcW83A8xwaiZb1iIXKFs2YV4M69FOKUOnNFYycNoy3P2fgeAi7Hv7IIw-WCzkL_V5ujSQqLzJ2EsEE-qYhLU1frbrAr",
+                "width": 1280
+            }
+        ],
+        "place_id": "ChIJ52PBQlDRDIgRy6O7X8EuMaA",
+        "plus_code": {
+            "compound_code": "3P5X+9C Savoy, Illinois",
+            "global_code": "86GH3P5X+9C"
+        },
+        "price_level": 1,
+        "rating": 4.1,
+        "reference": "ChIJ52PBQlDRDIgRy6O7X8EuMaA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 694,
+        "vicinity": "101 Calvin St, Savoy"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.0973689,
+                "lng": -88.19119940000002
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.09868182989273,
+                    "lng": -88.18984937010728
+                },
+                "southwest": {
+                    "lat": 40.09598217010728,
+                    "lng": -88.19254902989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "McDonald's",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4160,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117413478844786878784\">Dupri perkins</a>"
+                ],
+                "photo_reference": "ATplDJYt7AXz7q62w60E3MP_FpF8FJ9XEVTmivDm0vtOAygx884B_xAeAWa9etPXUs4MsxDfMd1-RnZuPOZognq9Zn58UiGSLj1R95SrOsw5TpqtF05pvaK-HSUvZz6aG3MhenlxuJX1latPNhbyjr8bhHQ_8KonA2GqFuPGg5EZ18zUlnuZ",
+                "width": 3120
+            }
+        ],
+        "place_id": "ChIJd8su5bbXDIgRuxKTEV9MqNQ",
+        "plus_code": {
+            "compound_code": "3RW5+WG Urbana, Illinois",
+            "global_code": "86GH3RW5+WG"
+        },
+        "price_level": 1,
+        "rating": 3.3,
+        "reference": "ChIJd8su5bbXDIgRuxKTEV9MqNQ",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 582,
+        "vicinity": "1705 S Philo Rd, Urbana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.11043,
+                "lng": -88.22983599999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.11171202989273,
+                    "lng": -88.22843562010728
+                },
+                "southwest": {
+                    "lat": 40.10901237010729,
+                    "lng": -88.23113527989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "McDonald's",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3120,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110763718137000917960\">Jordan Leys</a>"
+                ],
+                "photo_reference": "ATplDJZ-uDAU0GjSEQJ2Q76i2-9iTXnGscjdeFFwwhj2pENFsFtASswW5nCR4rTFYeenNMZCBjyQ1tVLGlTmgnn0W-p_OJchvwRWlGBZiDsZAQ3RBY0cHtfZsKRnrCfJNxvWCzZTrLQFuljwvFn6z2GDeo41JgGnbmPWeWpxJgoEW_QaNQg",
+                "width": 4160
+            }
+        ],
+        "place_id": "ChIJv5lMaT_XDIgRsEtHigVjhEY",
+        "plus_code": {
+            "compound_code": "4Q6C+53 Champaign, Illinois",
+            "global_code": "86GH4Q6C+53"
+        },
+        "price_level": 1,
+        "rating": 3.5,
+        "reference": "ChIJv5lMaT_XDIgRsEtHigVjhEY",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 820,
+        "vicinity": "616 E Green St, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.113216,
+                "lng": -88.28309899999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.11451962989272,
+                    "lng": -88.28177627010727
+                },
+                "southwest": {
+                    "lat": 40.11181997010728,
+                    "lng": -88.28447592989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Wienerschnitzel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1836,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113314323814809582695\">Jamie Pina</a>"
+                ],
+                "photo_reference": "ATplDJZkRIhp0BdhESQTlh3f-l8TCsQ7BY1n8GrgElaEdboXvNwes-qz8Pj4mnIVqOQ_VmaHXzVHrpqvsoFvtHqFPPpI_lsdb0_t4upKMdQWizE-z8spu9VM166Ab8lj-1KmNdXBMf818-ESj623O0LA6j4riB9TgNHwXlfHg93AQ1ttjjy7",
+                "width": 3264
+            }
+        ],
+        "place_id": "ChIJU0Tj3IrQDIgRv8six_ax1yI",
+        "plus_code": {
+            "compound_code": "4P78+7P Champaign, Illinois",
+            "global_code": "86GH4P78+7P"
+        },
+        "price_level": 1,
+        "rating": 4.3,
+        "reference": "ChIJU0Tj3IrQDIgRv8six_ax1yI",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1024,
+        "vicinity": "2102 W Springfield Ave, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.178005,
+                "lng": -88.24026599999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.17903852989273,
+                    "lng": -88.23905817010728
+                },
+                "southwest": {
+                    "lat": 40.17633887010728,
+                    "lng": -88.24175782989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "McDonald's",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3036,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104197414107712900249\">Kyle Eldridge</a>"
+                ],
+                "photo_reference": "ATplDJbi7qlhijyzy3pHAz3LtsS1KpZd71MqHNv2L962yu6VeCGqnDGHT0ooEpCM7vuzuWBMWgZ1zqU-3ds3dZrpoQ_sRiHViDin6Ltr2ey2PFdjf4980XzaWS1kBnpjTMfl4BTpAqkKfsexDPuLSYNrPL7svKCzAwloNI_n6OF7JOvkh9E0",
+                "width": 4048
+            }
+        ],
+        "place_id": "ChIJrS1PTozZDIgRhRFlNlb0XQ4",
+        "plus_code": {
+            "compound_code": "5QH5+6V Champaign, Illinois",
+            "global_code": "86GH5QH5+6V"
+        },
+        "price_level": 1,
+        "rating": 3.4,
+        "reference": "ChIJrS1PTozZDIgRhRFlNlb0XQ4",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1226,
+        "vicinity": "4910 N Market St, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.13351550000001,
+                "lng": -88.2595691
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.13478672989273,
+                    "lng": -88.25825132010726
+                },
+                "southwest": {
+                    "lat": 40.13208707010729,
+                    "lng": -88.26095097989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "McDonald's",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2988,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109428545318225783700\">Donnie Masden</a>"
+                ],
+                "photo_reference": "ATplDJaz61Tx3kPEqLDRVqB9z0s1XYL_zpTTuhmEJn7jcQqIjozQ6Be3Rt5ArvwhwZhZNXtqROdYDR7_rN-_CmIu7B47Op4mBBD4B6REvgrpfx4u62jgPgkieCcCd84i06Imui8zP0jFcX6bff5RXM-SnY70eNfRasqFavPolBWgQVWwL1BJ",
+                "width": 5312
+            }
+        ],
+        "place_id": "ChIJi-cbZnTaDIgRiB7-nFoRkl8",
+        "plus_code": {
+            "compound_code": "4PMR+C5 Champaign, Illinois",
+            "global_code": "86GH4PMR+C5"
+        },
+        "price_level": 1,
+        "rating": 3.1,
+        "reference": "ChIJi-cbZnTaDIgRiB7-nFoRkl8",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1138,
+        "vicinity": "906 W Bloomington Rd, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1585607,
+                "lng": -88.2762676
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.15999162989272,
+                    "lng": -88.27463622010727
+                },
+                "southwest": {
+                    "lat": 40.15729197010728,
+                    "lng": -88.27733587989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Dairy Queen Grill & Chill",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2952,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108067818134975602224\">Justin Partridge</a>"
+                ],
+                "photo_reference": "ATplDJZSBuOPefPDY0RktmjY4xH7rCQlJTCyga7LTS6dUH0A1iZOS1zH-BXy3RKUTG5g1TpIdA7GHWpq5FiIROwsPxonYcwr9aHXiRCkZn51rn1SBRhDWW2g8-FxegQKaO60XhpGYdeTeWOTYS1KLhd3Q_JRq8k6JmLBWuc7ka-1ER-sHcSn",
+                "width": 5248
+            }
+        ],
+        "place_id": "ChIJgVl6W1vaDIgRlBBnENMWF64",
+        "plus_code": {
+            "compound_code": "5P5F+CF Champaign, Illinois",
+            "global_code": "86GH5P5F+CF"
+        },
+        "price_level": 1,
+        "rating": 4,
+        "reference": "ChIJgVl6W1vaDIgRlBBnENMWF64",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 677,
+        "vicinity": "3602 N Mattis Ave, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1166486,
+                "lng": -88.2231063
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.11787537989273,
+                    "lng": -88.22174477010728
+                },
+                "southwest": {
+                    "lat": 40.11517572010728,
+                    "lng": -88.22444442989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Burger King",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108000745920178118547\">Jason Cadell</a>"
+                ],
+                "photo_reference": "ATplDJa0gSWw1z3liPn45z8kVVdePxj-urU_dUonR8NBNVvL17erufdTI4iKcNrAdkWP6Pf4K9RZAqNB5AU67_KBppwpy8hWLPvXEMcGvnh06tiB1QfKGvTvVr_TVju3ZTo2LBFBj5agqbp8RmRTgvVhhVMjhJmNcyRxhMHOPxtDTXovj-92",
+                "width": 4608
+            }
+        ],
+        "place_id": "ChIJVU0tYWnXDIgRe4I1I0YcD9I",
+        "plus_code": {
+            "compound_code": "4Q8G+MQ Urbana, Illinois",
+            "global_code": "86GH4Q8G+MQ"
+        },
+        "price_level": 1,
+        "rating": 3.4,
+        "reference": "ChIJVU0tYWnXDIgRe4I1I0YcD9I",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 655,
+        "vicinity": "1106 W University Ave, Urbana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.0846899,
+                "lng": -88.2462779
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.08606277989272,
+                    "lng": -88.24515892010727
+                },
+                "southwest": {
+                    "lat": 40.08336312010728,
+                    "lng": -88.24785857989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Arby's",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 400,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104932343069748695525\">Arby&#39;s</a>"
+                ],
+                "photo_reference": "ATplDJZRMu390iGDprBx-q69eQLWdJHasnsa6Tj-V29GCwugVg6agmUnbOWx7ByAXxUAy8jQGxIv46XFvR4DL1ZHYkZeMe5rut2x94xM1s0oJsDe1J7UVVaw9QcAx_hIg-mHhha2YuZBF-cNdzjXAgdcm96HFEXh_xioDogUZjkPxO2ZlCcW",
+                "width": 600
+            }
+        ],
+        "place_id": "ChIJs587tizRDIgRHc87rlEYlV0",
+        "plus_code": {
+            "compound_code": "3QM3+VF Champaign, Illinois",
+            "global_code": "86GH3QM3+VF"
+        },
+        "price_level": 1,
+        "rating": 4,
+        "reference": "ChIJs587tizRDIgRHc87rlEYlV0",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 580,
+        "vicinity": "2310 S Neil St, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1182515,
+                "lng": -88.20443069999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.11966317989271,
+                    "lng": -88.20310402010728
+                },
+                "southwest": {
+                    "lat": 40.11696352010727,
+                    "lng": -88.20580367989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "McDonald's",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2184,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102600569405952400225\">Gilberto Sanchez</a>"
+                ],
+                "photo_reference": "ATplDJaodFf-2iJavbClWFzhmY7MtiU7jhBf5BOHhZeqOrpv93nECGH_EoYZEOLC84OBIFb2R6lFnyvHAZZdhD-kHtTeI6S1FE-Q7o0bT0AO-wbLCfM8atoS6peowmz-TkE-Ft9LOnw-H3ffN4OKRC_IPC6m9BtwaWuRUYMXZlE3FqK6mWCq",
+                "width": 4608
+            }
+        ],
+        "place_id": "ChIJ2-zLT5zXDIgRDCUNjqsHriE",
+        "plus_code": {
+            "compound_code": "4Q9W+86 Urbana, Illinois",
+            "global_code": "86GH4Q9W+86"
+        },
+        "price_level": 1,
+        "rating": 3.4,
+        "reference": "ChIJ2-zLT5zXDIgRDCUNjqsHriE",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1539,
+        "vicinity": "601 N Cunningham Ave, Urbana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.0975207,
+                "lng": -88.245239
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.09894157989272,
+                    "lng": -88.24387192010728
+                },
+                "southwest": {
+                    "lat": 40.09624192010727,
+                    "lng": -88.24657157989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "McDonald's",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108068704455587176353\">Zubair Akbar</a>"
+                ],
+                "photo_reference": "ATplDJaR8ci6HPYaXo305DeSfRvISq897k31AXE2wi9ZHNVCwAjpq5jtOnrbpv7gN0e0_k09jkLnr4Ek-LKcDhYyGFDaumDLRdqrU0d1sbYCYxGtPb1s21lFGkWBkR2wX06nQHChOyWwuMIF2omfuXZ_eOl1Re3ZajtQjFPufx2ec49gxzjA",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJg2R7uCzXDIgR08NevAOyW8A",
+        "plus_code": {
+            "compound_code": "3QX3+2W Champaign, Illinois",
+            "global_code": "86GH3QX3+2W"
+        },
+        "price_level": 1,
+        "rating": 3.3,
+        "reference": "ChIJg2R7uCzXDIgR08NevAOyW8A",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1315,
+        "vicinity": "1605 S Neil St, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1369396,
+                "lng": -88.2426797
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.13838632989271,
+                    "lng": -88.24119977010727
+                },
+                "southwest": {
+                    "lat": 40.13568667010727,
+                    "lng": -88.24389942989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Taco Bell",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115624965139128551828\">Maher Bajis</a>"
+                ],
+                "photo_reference": "ATplDJZK1Sle-2893wNI3VsuLINKeZt74Z9XOtO0u1GBNeLGG5dFlCChx241Tu7vampRVwMfcGeJexgzoEnaKq--j5Dfjp92_mKhFt_4PVN3ro2ZT3s9iipSSQHiDKJSaEO5x1zb4EPLfxX2uR9TniSFslp3_FeREkyMGSOqnFXZi25cXUQ_",
+                "width": 1920
+            }
+        ],
+        "place_id": "ChIJoVCHzP7ZDIgRTtotyo_IT34",
+        "plus_code": {
+            "compound_code": "4QP4+QW Champaign, Illinois",
+            "global_code": "86GH4QP4+QW"
+        },
+        "price_level": 1,
+        "rating": 3.9,
+        "reference": "ChIJoVCHzP7ZDIgRTtotyo_IT34",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 759,
+        "vicinity": "10 E Anthony Dr, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.144219,
+                "lng": -88.25699399999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.14542372989272,
+                    "lng": -88.25573797010726
+                },
+                "southwest": {
+                    "lat": 40.14272407010727,
+                    "lng": -88.25843762989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Portillo's Champaign",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4008,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108604531443735570175\">MATT LIEDMAN</a>"
+                ],
+                "photo_reference": "ATplDJZChCd7ttJAIQy0ZQ-AMmqVEkxuP3ov_8lQHq7Y--W9nVNgSJgijYHQhngE4SV8bRqG6arEB4OUGc5TOtfgA42COTeEZNWMmUDTPQ7VoWSz4ao5WjmTtJh0P8fH1ynj3ctwMGk3EVuFS92TLakiN4acDF9-LzovcLbtsKJzRU-Rjb79",
+                "width": 5344
+            }
+        ],
+        "place_id": "ChIJi7HSaRDaDIgRLAsHmAH0anI",
+        "plus_code": {
+            "compound_code": "4PVV+M6 Champaign, Illinois",
+            "global_code": "86GH4PVV+M6"
+        },
+        "price_level": 1,
+        "rating": 4.3,
+        "reference": "ChIJi7HSaRDaDIgRLAsHmAH0anI",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3836,
+        "vicinity": "2306 N Prospect Ave, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1178708,
+                "lng": -88.2047729
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.11924382989272,
+                    "lng": -88.20340797010728
+                },
+                "southwest": {
+                    "lat": 40.11654417010728,
+                    "lng": -88.20610762989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Arby's",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2988,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110386282333640881892\">Ashley Davis</a>"
+                ],
+                "photo_reference": "ATplDJbyCHBhQDqCuJKNovDR929zGdyZLFrfkTVCTuTrsXinBIOCZCEnfFnYYHb1Eht36Q5io-iwHFA8PbhuCNrHkTNGTVhPxs7HwucHmro-ZZKg_noOiGn2AN0jZEzrIIUpWbF0wgQgWryT6gTFGbLotgCa0ZuiQ80p6SFmElJWMKUajBoK",
+                "width": 5312
+            }
+        ],
+        "place_id": "ChIJbXkySZzXDIgRnpKCXGpkJ4k",
+        "plus_code": {
+            "compound_code": "4Q9W+43 Urbana, Illinois",
+            "global_code": "86GH4Q9W+43"
+        },
+        "price_level": 1,
+        "rating": 4,
+        "reference": "ChIJbXkySZzXDIgRnpKCXGpkJ4k",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 595,
+        "vicinity": "509 N Cunningham Ave, Urbana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.0954404,
+                "lng": -88.245572
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.09674537989272,
+                    "lng": -88.24403392010727
+                },
+                "southwest": {
+                    "lat": 40.09404572010728,
+                    "lng": -88.24673357989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Taco Bell",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107766448964980296552\">Chris Cygnus</a>"
+                ],
+                "photo_reference": "ATplDJaYzYfYsUAXhjeBzgi03JQLH6jnNPAqpKTRnC4qrfqgL2Ny33iE111seeDt8JNz0G9QQECeN9AlURMwUq2yh4DvfXMsyqMvWoykAeTHqqYv-VwE_kndlEck8NVhuhReKt1SwA9X1mQ1kiiQ8lQ8lkyNctxYoym_hdXrQKmxa4pTHTno",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJsyN5TyvXDIgRwm5HV_tiEpk",
+        "plus_code": {
+            "compound_code": "3QW3+5Q Champaign, Illinois",
+            "global_code": "86GH3QW3+5Q"
+        },
+        "price_level": 1,
+        "rating": 3.6,
+        "reference": "ChIJsyN5TyvXDIgRwm5HV_tiEpk",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 645,
+        "vicinity": "1707 S Neil St, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1423643,
+                "lng": -88.25008040000002
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.14373072989272,
+                    "lng": -88.24863497010728
+                },
+                "southwest": {
+                    "lat": 40.14103107010728,
+                    "lng": -88.25133462989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Freddy's Frozen Custard & Steakburgers",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3006,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113923524236697067257\">Heidi Marie</a>"
+                ],
+                "photo_reference": "ATplDJaiTbsd8bvAAjIjkBIqPpIozy9Q0IJ780LhccTDfB6_SvDJsmP866JGt0GsAok0A1qwzKpJzA5AQN_Z4P0rEHEr57o98EMIQwtCPvtSWOwhHZVS4V6eA7Xh1XiIm3CLs_bxdorlyRGAjckDBE9Fa_9IszlI01F728Bc4elbkypiILkF",
+                "width": 5344
+            }
+        ],
+        "place_id": "ChIJ5YrvSAPaDIgRX4Mvl5-CJn8",
+        "plus_code": {
+            "compound_code": "4PRX+WX Champaign, Illinois",
+            "global_code": "86GH4PRX+WX"
+        },
+        "price_level": 1,
+        "rating": 4.1,
+        "reference": "ChIJ5YrvSAPaDIgRX4Mvl5-CJn8",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1329,
+        "vicinity": "420 W Town Center Blvd, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.097918,
+                "lng": -88.2938167
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.09932652989272,
+                    "lng": -88.29246892010728
+                },
+                "southwest": {
+                    "lat": 40.09662687010728,
+                    "lng": -88.29516857989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "McDonald's",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 700,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108466579908358876402\">Mirra Kirra</a>"
+                ],
+                "photo_reference": "ATplDJYOeCVWolbKWafdthvbqiPMfa1z0V9CeFHl-mbD9lQvoUvm_DU1w9cFCWd_lLcgRJwbLI_LwWhZ4JdSLwuloqwnf-2zdZye4sbziYzBjTO4cMWRQQpvaWDYK2A9K1vDWsW7isuHBzBDujhIYa2AYn-vSM96X4xhjgmqYSnUVZrUGylY",
+                "width": 700
+            }
+        ],
+        "place_id": "ChIJRx9g3FHQDIgRntgYBQdJT50",
+        "plus_code": {
+            "compound_code": "3PX4+5C Champaign, Illinois",
+            "global_code": "86GH3PX4+5C"
+        },
+        "price_level": 1,
+        "rating": 3.2,
+        "reference": "ChIJRx9g3FHQDIgRntgYBQdJT50",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 744,
+        "vicinity": "2909 W Kirby Ave, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1421133,
+                "lng": -88.2572079
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.14355352989272,
+                    "lng": -88.25588572010727
+                },
+                "southwest": {
+                    "lat": 40.14085387010727,
+                    "lng": -88.25858537989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Burger King",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2592,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104108668096550559443\">Tony Bombardo</a>"
+                ],
+                "photo_reference": "ATplDJbmQj-yj_O4uCIO3MWE-H-N4Mkiyu2mstd7JM0_RaycSYEkmcFBTh6SZl5WG5ud8564LUK_vsRh27qB3rBZhxm1tTNFd7eT1kF1d-paMsw--A3pqG1gyJvAaKnwMqo-OUtSoTyMle1q7ROGEtpc00CSUrcgUOX9Z8a0vKNwz8cJmbzH",
+                "width": 4994
+            }
+        ],
+        "place_id": "ChIJp6zO3g_aDIgRCdfS5HYn2MU",
+        "plus_code": {
+            "compound_code": "4PRV+R4 Champaign, Illinois",
+            "global_code": "86GH4PRV+R4"
+        },
+        "price_level": 1,
+        "rating": 3.3,
+        "reference": "ChIJp6zO3g_aDIgRCdfS5HYn2MU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 701,
+        "vicinity": "2110 N Prospect Ave, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1104081,
+                "lng": -88.2313903
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.11169712989272,
+                    "lng": -88.23007687010727
+                },
+                "southwest": {
+                    "lat": 40.10899747010728,
+                    "lng": -88.23277652989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Taco Bell",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103438392580245762738\">Sam Lentz</a>"
+                ],
+                "photo_reference": "ATplDJbNA64GbwmtCVpX1N5b2RwHRzHPJsDND2bV-OlQDAM2IQaXXbzxo-B50PQT0nTeERrpoZVpcWIv48lzcVv7zl_iNdE2ZcAwXRXqMu8KfuH3Uu1O3tylgNaT50XZLEGVhU8iCdzLyRVO1EDPslZN1zCxI5O5b6EsYuh4i9S1U5_i0R0c",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJQ3A7RpLXDIgRVkS2wteLKEw",
+        "plus_code": {
+            "compound_code": "4Q69+5C Champaign, Illinois",
+            "global_code": "86GH4Q69+5C"
+        },
+        "price_level": 1,
+        "rating": 3.2,
+        "reference": "ChIJQ3A7RpLXDIgRVkS2wteLKEw",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 172,
+        "vicinity": "512 E Green St, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1162192,
+                "lng": -88.2211233
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.11755142989271,
+                    "lng": -88.21972262010728
+                },
+                "southwest": {
+                    "lat": 40.11485177010727,
+                    "lng": -88.22242227989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Taco Bell",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3120,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116325886989796900458\">Ryan Kimpel</a>"
+                ],
+                "photo_reference": "ATplDJYRNz83o4mwZv5dDwW4COqEQ3MDdPiDzrbQNZg9uLV2rogA7YrBWUyqKJCowUkqsdYG7eRHEL_aJXJLReMl0XRrC-tPXJgxCzHVKeCRiuAI7E7IAJ54bHnI7Ne9t_gBF-A5ts1cL2nKag5GgnYSbpPSOTgNM9oeI_zu8Uhv0hBWuhRE",
+                "width": 4160
+            }
+        ],
+        "place_id": "ChIJ78crA2zXDIgRYRRyv19IXe0",
+        "plus_code": {
+            "compound_code": "4Q8H+FH Urbana, Illinois",
+            "global_code": "86GH4Q8H+FH"
+        },
+        "price_level": 1,
+        "rating": 3.7,
+        "reference": "ChIJ78crA2zXDIgRYRRyv19IXe0",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1028,
+        "vicinity": "1003 University, Urbana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.112516,
+                "lng": -88.28149359999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.11394542989272,
+                    "lng": -88.28025247010727
+                },
+                "southwest": {
+                    "lat": 40.11124577010727,
+                    "lng": -88.28295212989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Burger King",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3984,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109997669288999363264\">John F. Bruns</a>"
+                ],
+                "photo_reference": "ATplDJbVdrRnwsxT53QUae0PYz-rdlnYLkE-IZj7MfgxsreKcsdN6RumAzEV7DPp9kn48WUtUoHh0RsP1oHzPOAknxVhnZOeJo4g3THAGhQ11JhyBA9Df7CaFtLNF4vcJBToG67eH3nLobOxzTfkKQFsnvkBJHBUdBmgBw2RM_xI5ZnUFJ5N",
+                "width": 2988
+            }
+        ],
+        "place_id": "ChIJba-oNovQDIgRrCtY42frZ4s",
+        "plus_code": {
+            "compound_code": "4P79+2C Champaign, Illinois",
+            "global_code": "86GH4P79+2C"
+        },
+        "price_level": 1,
+        "rating": 3.2,
+        "reference": "ChIJba-oNovQDIgRrCtY42frZ4s",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 398,
+        "vicinity": "2105 W Springfield Ave, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.11241649999999,
+                "lng": -88.2794643
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.11387742989272,
+                    "lng": -88.27811012010727
+                },
+                "southwest": {
+                    "lat": 40.11117777010728,
+                    "lng": -88.28080977989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Arby's",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 400,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111978074090355807802\">Arby&#39;s</a>"
+                ],
+                "photo_reference": "ATplDJapToZ9ebTqEGMl8MBzsogB-hjEIHeEKzBIwLFLjgAhH-S4gc9bHjeDgfheCQoolIHNB_q02nckawP-qlOrpsowWYnrRNs-erJ-O3jI3tFGUxzQusvQSOjsidqPOlLdw_PQ-3OkjYSybitCkvSNJ3wdzMvOZeaiwB8vE_fSeNCHv1RR",
+                "width": 600
+            }
+        ],
+        "place_id": "ChIJf_14sYzQDIgRbkSa9pwA3_8",
+        "plus_code": {
+            "compound_code": "4P6C+X6 Champaign, Illinois",
+            "global_code": "86GH4P6C+X6"
+        },
+        "price_level": 1,
+        "rating": 3.9,
+        "reference": "ChIJf_14sYzQDIgRbkSa9pwA3_8",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 401,
+        "vicinity": "1913 W Springfield Ave, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.0974413,
+                "lng": -88.1902854
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.09879837989273,
+                    "lng": -88.18904897010728
+                },
+                "southwest": {
+                    "lat": 40.09609872010729,
+                    "lng": -88.19174862989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Burger King",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2988,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109180010768852161432\">Dave Vesely</a>"
+                ],
+                "photo_reference": "ATplDJaxDIuLdngYKdLoCyf4eOJFl8MCq87oQ_AI-WPfYcl5PTWoIqr5RfTmpNRgN7wqur1cFhvUfIwuwwQeMqVBiCZqqLYxLqLRWADfbzxTKYtc-g97hwYhnSLzWpwFbaICDHAMGMHsbAhXp81FrxpgHmpIcThOxalBK1HZbYP3rS3dtNm4",
+                "width": 3984
+            }
+        ],
+        "place_id": "ChIJq-RUA7fXDIgRgOJ5KiQrjog",
+        "plus_code": {
+            "compound_code": "3RW5+XV Urbana, Illinois",
+            "global_code": "86GH3RW5+XV"
+        },
+        "price_level": 1,
+        "rating": 3.3,
+        "reference": "ChIJq-RUA7fXDIgRgOJ5KiQrjog",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 380,
+        "vicinity": "1708 Philo Rd, Urbana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1160827,
+                "lng": -88.2095823
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.11737097989273,
+                    "lng": -88.20821707010728
+                },
+                "southwest": {
+                    "lat": 40.11467132010728,
+                    "lng": -88.21091672989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Culver\u2019s",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3120,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113882469743280081748\">tony carmona</a>"
+                ],
+                "photo_reference": "ATplDJa2qnjef2NtsuJs85gYeDeR5XXCkYWqlm9pr9oNyabpOHh3D_SlcChf5AL4jm-6b0re9JnPxM0YiQbtUgT-vcr5RpVrqV8BvaCZSP7RdXcpeSgdnjkR4cGi2JsZtsoH7OXo3K6aeL9n8gIlfinI03ch5HOnchHvaUi13FmMd2kNIbnb",
+                "width": 4160
+            }
+        ],
+        "place_id": "ChIJcZx2tmXXDIgRTxQF2U4L_x4",
+        "plus_code": {
+            "compound_code": "4Q8R+C5 Urbana, Illinois",
+            "global_code": "86GH4Q8R+C5"
+        },
+        "price_level": 1,
+        "rating": 4.5,
+        "reference": "ChIJcZx2tmXXDIgRTxQF2U4L_x4",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 830,
+        "vicinity": "201 W University Ave, Urbana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1100869,
+                "lng": -88.2323081
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.11145417989272,
+                    "lng": -88.23082977010728
+                },
+                "southwest": {
+                    "lat": 40.10875452010728,
+                    "lng": -88.23352942989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Raising Cane's Chicken Fingers",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105321834200628905237\">Shane Allen</a>"
+                ],
+                "photo_reference": "ATplDJbKekka-N3baacsV36ixx6SGrgUBM3lKfUE_AtjdgYROPsaJqZ4AeNTMCaqYbZtasDDFCmrLV6SAz2EpoplXgMNITgEUKrtSvpTeEe2wDAVKGLFepmOwtwomgpKOtkMvgYBq3NkBqsaIhzc3IA6fsgWm9boIjh_De8BHM3BFamQM9Mg",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJVY3IYgbXDIgRxS4oQ6REc34",
+        "plus_code": {
+            "compound_code": "4Q69+23 Champaign, Illinois",
+            "global_code": "86GH4Q69+23"
+        },
+        "price_level": 1,
+        "rating": 4.3,
+        "reference": "ChIJVY3IYgbXDIgRxS4oQ6REc34",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 186,
+        "vicinity": "411 E Green St, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1378523,
+                "lng": -88.2596915
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.13923072989272,
+                    "lng": -88.25830592010729
+                },
+                "southwest": {
+                    "lat": 40.13653107010727,
+                    "lng": -88.26100557989274
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Culver\u2019s",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3781,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104477591457054269869\">Dawn Stahl</a>"
+                ],
+                "photo_reference": "ATplDJYuYUOATw7SsVjN00hg1Tz-YePl6Bq-M459nKuyqrXzPgSuaBLyvGoY7bcy4lfMjgdjdn6ks26u8TunlCyOsgyORNa1vzil8abWfHhxTutvHPNatWIDC0UYJvHWmXQjsAKbvSv6CNtbUr2B5bZ-vlZxKLqqaYJ3VmqWzHitJblf4-eU",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJ067wtg7aDIgREuSU2hpstE8",
+        "plus_code": {
+            "compound_code": "4PQR+44 Champaign, Illinois",
+            "global_code": "86GH4PQR+44"
+        },
+        "price_level": 1,
+        "rating": 4.3,
+        "reference": "ChIJ067wtg7aDIgREuSU2hpstE8",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 1451,
+        "vicinity": "903 W Marketview Dr, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.0713793,
+                "lng": -88.24928729999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.07279222989272,
+                    "lng": -88.24792337010727
+                },
+                "southwest": {
+                    "lat": 40.07009257010728,
+                    "lng": -88.25062302989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Burger King",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110768411053211187051\">Mangesh Bendre</a>"
+                ],
+                "photo_reference": "ATplDJYejdd_On72drSmpTybbxcIVZG2Rir7ZdZ1WkmFR7XZcHD-Gkm-L-F-nC6xXwg89UVdO00IkI0nGfJsC5Q_G8jK7zfMAo12J5St9aXHY0erBwpRp8rYNfHW3BvLdLsR867RbWW7Zz-vzyrxjral8U6LPxbjsUNRvFfigkUSsb3Wt61H",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJcUAJkTXRDIgRbsj_sud0q9Y",
+        "plus_code": {
+            "compound_code": "3QC2+H7 Savoy, Illinois",
+            "global_code": "86GH3QC2+H7"
+        },
+        "price_level": 1,
+        "rating": 3.4,
+        "reference": "ChIJcUAJkTXRDIgRbsj_sud0q9Y",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 371,
+        "vicinity": "1325 N Dunlap Ave, Savoy"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.0854564,
+                "lng": -88.2462154
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.08680067989272,
+                    "lng": -88.24505437010727
+                },
+                "southwest": {
+                    "lat": 40.08410102010728,
+                    "lng": -88.24775402989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Culver\u2019s",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3006,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104498691862555874071\">Tom Ahasic</a>"
+                ],
+                "photo_reference": "ATplDJYyF8DPrVH5_YsDF9sYROi3ephCCG6DDujTI87Ifn2Jt-b1vHZHr9P1A_v0KByrKKKIzdLS2rbdCn_myU6yQieIUgcdXWYfB2aZV_g9L47y99sTU33IGP5eWGnLw7YrspsrLHfMfv_OIAS2JT7AYHZyMPcq6k0T2blKptEBPPiPobky",
+                "width": 5344
+            }
+        ],
+        "place_id": "ChIJc68urSzRDIgRJ192SVqWFoU",
+        "plus_code": {
+            "compound_code": "3QP3+5G Champaign, Illinois",
+            "global_code": "86GH3QP3+5G"
+        },
+        "price_level": 1,
+        "rating": 4.4,
+        "reference": "ChIJc68urSzRDIgRJ192SVqWFoU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 1443,
+        "vicinity": "2302 S Neil St, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.0736198,
+                "lng": -88.25105219999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.07501062989271,
+                    "lng": -88.24970277010728
+                },
+                "southwest": {
+                    "lat": 40.07231097010727,
+                    "lng": -88.25240242989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Dairy Queen",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3006,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116723746719270990685\">Sal Nudo</a>"
+                ],
+                "photo_reference": "ATplDJb4qPe3CPvq2L9mzrzMEvQd8imb09N5GbQWH253Dg5cu2qtBvF0Kjv5HJhxCjk2ehEw56FbFwADRWHLJ_C2vPD1vjA00__v1wvCXTqg_26BgtZiCW7VxlwfXc94m0u8L5g6baV45e3eczjE9s_9Z_oTEXu-Jftsn7GDZvtPNKuXG6tp",
+                "width": 5344
+            }
+        ],
+        "place_id": "ChIJe6dohDbRDIgR83LY5n3vo70",
+        "plus_code": {
+            "compound_code": "3PFX+CH Savoy, Illinois",
+            "global_code": "86GH3PFX+CH"
+        },
+        "price_level": 1,
+        "rating": 3.8,
+        "reference": "ChIJe6dohDbRDIgR83LY5n3vo70",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 273,
+        "vicinity": "1501 Lyndhurst Alley, Savoy"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1013607,
+                "lng": -88.2443634
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.10285547989272,
+                    "lng": -88.24307287010727
+                },
+                "southwest": {
+                    "lat": 40.10015582010728,
+                    "lng": -88.24577252989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Meatheads",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104364931914055175135\">Meatheads Burgers and Fries</a>"
+                ],
+                "photo_reference": "ATplDJbGp2rGCILI7z4ObAaIQ473jH6lkAk1z7ERXNL3u0meabnQaLzOAHgOtbeEXkfN6tf7luhf7XrtJx3mqj__3YGUvIp80_M4ciSdrxM7rXCVhSC3wnKyU_NeoHmXRJGcnF_PaAV_05uHIs7WzCz6iEuSDpdIsP08pcgLrXZ2ml7UheKG",
+                "width": 1620
+            }
+        ],
+        "place_id": "ChIJr4WwnTLXDIgRDwCqFdwEQQE",
+        "plus_code": {
+            "compound_code": "4Q24+G7 Champaign, Illinois",
+            "global_code": "86GH4Q24+G7"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJr4WwnTLXDIgRDwCqFdwEQQE",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1430,
+        "vicinity": "1305 S Neil St, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1421807,
+                "lng": -88.2583676
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.14349402989272,
+                    "lng": -88.25695777010728
+                },
+                "southwest": {
+                    "lat": 40.14079437010728,
+                    "lng": -88.25965742989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Raising Cane's Chicken Fingers",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 720,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109747100929880409086\">A Google User</a>"
+                ],
+                "photo_reference": "ATplDJYVXogIUhPRr_IYA47Goa-TJYr74CgVnykRkxEuTSH9SQntiCi_mxpC_8PVV89n60mo7GtQsHl4u-rMu3oCPdwURJczKabU3GQh2QL2LUdR0PmovAlbBVtOWk8E4Nvw4qIVube7Ys7U6b588I-AqWnYY7IhIqh-SItYJneFUbgWZaim",
+                "width": 720
+            }
+        ],
+        "place_id": "ChIJRVJe21DbDIgReTUuz-L3_YY",
+        "plus_code": {
+            "compound_code": "4PRR+VM Champaign, Illinois",
+            "global_code": "86GH4PRR+VM"
+        },
+        "price_level": 1,
+        "rating": 4.1,
+        "reference": "ChIJRVJe21DbDIgReTUuz-L3_YY",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 209,
+        "vicinity": "2121 N Prospect Ave, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.0905946,
+                "lng": -88.2463954
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.09199752989273,
+                    "lng": -88.24504547010727
+                },
+                "southwest": {
+                    "lat": 40.08929787010728,
+                    "lng": -88.24774512989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Slim Chickens",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1836,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115488946659205415427\">Holly Anderson</a>"
+                ],
+                "photo_reference": "ATplDJYblD80dSRf_SpxgrDi02TljYPAnCTCgS5I7Tlf8z5RKq2dWPPbhJNtCNeMbd1N2BYLC6QjqoxIYleCmTgjOyjhB0o5pn0xmaSvD-QUMNTZYETN_7_SFF1gO-CKwATRQ4koqqRJRLafw-B9nfBWCbwzYGPlNhae8gi4VsY6n8T6LYAx",
+                "width": 3264
+            }
+        ],
+        "place_id": "ChIJ50rPTdXWDIgRLuoF5XKr-gk",
+        "plus_code": {
+            "compound_code": "3QR3+6C Champaign, Illinois",
+            "global_code": "86GH3QR3+6C"
+        },
+        "price_level": 1,
+        "rating": 3.9,
+        "reference": "ChIJ50rPTdXWDIgRLuoF5XKr-gk",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 980,
+        "vicinity": "2037 S Neil St, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1091736,
+                "lng": -88.23152449999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.11047542989272,
+                    "lng": -88.23020502010726
+                },
+                "southwest": {
+                    "lat": 40.10777577010727,
+                    "lng": -88.23290467989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Fat Sandwich Company",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112451402850656561984\">derar dawoud</a>"
+                ],
+                "photo_reference": "ATplDJbR5b2BebQ3OC5W36WEdUDp5QeHSeWnWwjHS-mHxiImADJ9wvABhR88wlvAKOzpfATvmBEm7Ywqvrrbst27S5NzSBw_G1qT1pGb8PAeAoGJQy6Ilm09o5A_UyqO7UchdUYd3vkrpt3XtcLfFCvXS53doIWKhJkYgc30Q2YzY7iwT1Ov",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJ2wrFLD_XDIgRO4NJ-R8ff3I",
+        "plus_code": {
+            "compound_code": "4Q59+M9 Champaign, Illinois",
+            "global_code": "86GH4Q59+M9"
+        },
+        "price_level": 1,
+        "rating": 4.2,
+        "reference": "ChIJ2wrFLD_XDIgRO4NJ-R8ff3I",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 281,
+        "vicinity": "502 E John St, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1098262,
+                "lng": -88.2408122
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.11124782989272,
+                    "lng": -88.23954252010728
+                },
+                "southwest": {
+                    "lat": 40.10854817010728,
+                    "lng": -88.24224217989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Jimmy John's",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113360234012617548182\">Dalamin Aubis</a>"
+                ],
+                "photo_reference": "ATplDJaZcAzHk662fnWqgzIOT0-1HSCHPubHUt2mgUqvIRrLER2Z66eto_kersqkgY0xFPHWcPNOmFc1yFm23_Jb8lfqueVZcsWS3f9XcREnGRa_12NwFs638gE6FjMIBO9PlXtaZQmqgc1TBmY_PpID3NJKMc77XKMXLEHm49IdvjdM53VE",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ78U1dTbXDIgRuJ0ERCkVFII",
+        "plus_code": {
+            "compound_code": "4Q55+WM Champaign, Illinois",
+            "global_code": "86GH4Q55+WM"
+        },
+        "price_level": 1,
+        "rating": 3.9,
+        "reference": "ChIJ78U1dTbXDIgRuJ0ERCkVFII",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 225,
+        "vicinity": "43 E Green St, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1335454,
+                "lng": -88.26008709999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.13486062989272,
+                    "lng": -88.25869242010727
+                },
+                "southwest": {
+                    "lat": 40.13216097010728,
+                    "lng": -88.26139207989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Popeyes Louisiana Kitchen",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111069889233689277408\">T Couture</a>"
+                ],
+                "photo_reference": "ATplDJaLanJClDdxXJ44RZ5zMkVO5Ts1C1he8PUBqdoL2tBybQG0nILft2JeerPc5JxORxmoltRX_YFGtZR6BKMtTTnU-w6QYyGWi8t0DEesKlXcnDZ9Hr6UU0lZpZLojTjO6hveOdICcmmsLkHZJvxy2N6WcfZI7g-2APGzH7ALlbcEmer9",
+                "width": 1920
+            }
+        ],
+        "place_id": "ChIJA7nJkwnaDIgRFPRxumWiXe4",
+        "plus_code": {
+            "compound_code": "4PMQ+CX Champaign, Illinois",
+            "global_code": "86GH4PMQ+CX"
+        },
+        "price_level": 1,
+        "rating": 2.9,
+        "reference": "ChIJA7nJkwnaDIgRFPRxumWiXe4",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1616,
+        "vicinity": "910 W Bloomington Rd, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.0949553,
+                "lng": -88.2458521
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.09630657989272,
+                    "lng": -88.24438062010728
+                },
+                "southwest": {
+                    "lat": 40.09360692010727,
+                    "lng": -88.24708027989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Steak 'n Shake",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107075704673444535760\">Natalie Kennedy</a>"
+                ],
+                "photo_reference": "ATplDJYOwjPC40Lh9ZHa5f1mEdXYclYES1lhCmvwo1faccnP88PlejCJMADINS30puwmvhDo1pzFi_8CpUKzysdl_XnuY0sOwDU7PoqeKDGsLT8sw6ccBUh5NtUxbDkXXNNzJ5LqXeEopVYoVHU9XIEN9d_h611qDE7Lk7-Hpz4Y1iBheF0S",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJB_YmRyvXDIgRBsBcCf3dfTc",
+        "plus_code": {
+            "compound_code": "3QV3+XM Champaign, Illinois",
+            "global_code": "86GH3QV3+XM"
+        },
+        "price_level": 1,
+        "rating": 3.6,
+        "reference": "ChIJB_YmRyvXDIgRBsBcCf3dfTc",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1254,
+        "vicinity": "1709 S Neil St, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1167647,
+                "lng": -88.2122393
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.11811487989272,
+                    "lng": -88.21078672010728
+                },
+                "southwest": {
+                    "lat": 40.11541522010727,
+                    "lng": -88.21348637989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "KFC",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108000745920178118547\">Jason Cadell</a>"
+                ],
+                "photo_reference": "ATplDJZX8vRn1cJTzS4HrPaYto_RNo_Ov9Il5hnBs2fDdLxnGOGJx_CSRAGW1uVaRn5bLNfSgWMHaPDqt3dnYiyid_KAXq9rqUAUUM99m-tvGpHBTCcSTqTiSjJ18vlRE2RLrNpWRiVSP6kzRYjNDjXeZoSFrdACXOAWelMGDOoBXYUTz3f7",
+                "width": 4608
+            }
+        ],
+        "place_id": "ChIJR3JKUnHXDIgRIGd56vtzGqU",
+        "plus_code": {
+            "compound_code": "4Q8Q+P4 Urbana, Illinois",
+            "global_code": "86GH4Q8Q+P4"
+        },
+        "price_level": 1,
+        "rating": 3.4,
+        "reference": "ChIJR3JKUnHXDIgRIGd56vtzGqU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 785,
+        "vicinity": "410 W University Ave, Urbana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1104198,
+                "lng": -88.233198
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.11181057989273,
+                    "lng": -88.23197622010727
+                },
+                "southwest": {
+                    "lat": 40.10911092010728,
+                    "lng": -88.2346758798927
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Jurassic Grill Champaign",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3360,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108052692943928103530\">Adriana</a>"
+                ],
+                "photo_reference": "ATplDJblj30-5eJUtQDoSIlkfvpcvts282L2aE4cdO-ogyX-qgv2uf2i_Nxt65ii5iLoeoYwvYmOet8MYQUhNHojUrMFwuAyHupndUyKkjM2Sg_SNAkN_yRwTdNTuf2_qd3A2ot6bJIESPK8yLpoaeMZrm6nP8_fDd9vLiESRWYsa7gaseub",
+                "width": 4200
+            }
+        ],
+        "place_id": "ChIJyx_mkzjXDIgRAiMn4XwhwPE",
+        "plus_code": {
+            "compound_code": "4Q68+5Q Champaign, Illinois",
+            "global_code": "86GH4Q68+5Q"
+        },
+        "price_level": 1,
+        "rating": 4.2,
+        "reference": "ChIJyx_mkzjXDIgRAiMn4XwhwPE",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "meal_takeaway",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 352,
+        "vicinity": "404 E Green St #5866, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1125496,
+                "lng": -88.2844124
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.11395287989273,
+                    "lng": -88.28313782010727
+                },
+                "southwest": {
+                    "lat": 40.11125322010728,
+                    "lng": -88.28583747989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "KFC",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108068704455587176353\">Zubair Akbar</a>"
+                ],
+                "photo_reference": "ATplDJaeyMzyFGe_NSx_C0n1_RaWuBKFN35_RzUfl9L5zE3nsZFvydZlJk_nEeCKRfXD2V0MoXwAaHZmhsxLTnZvzpOOejhH8e5lYYV_jeUuYye8maDJww_A2eZmhlqSxSiVyKUzgEXZL0I_sAUxUXd344ShDLfDld_bASmpTgQg5-kDeXZ2",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJlXMbrorQDIgRM43iCzjdwjA",
+        "plus_code": {
+            "compound_code": "4P78+26 Champaign, Illinois",
+            "global_code": "86GH4P78+26"
+        },
+        "price_level": 1,
+        "rating": 3.1,
+        "reference": "ChIJlXMbrorQDIgRM43iCzjdwjA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 478,
+        "vicinity": "2201 W Springfield Ave, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1131719,
+                "lng": -88.28313620000002
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.11450837989271,
+                    "lng": -88.28176807010728
+                },
+                "southwest": {
+                    "lat": 40.11180872010726,
+                    "lng": -88.28446772989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Tastee Freez",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1836,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113314323814809582695\">Jamie Pina</a>"
+                ],
+                "photo_reference": "ATplDJajX7TCInVaCBgaJeEY6MmqoT6aqK1cIb8T3QWzefg7EpoH-rlOLD5vE7QbDNUOJ6vyS1FYAoFi9cRcnfkTGH7cgBb2cpFIT7Fyjuzoi4sVgMtQ1E8Kby6lcSJRyL1Afe3sgSxfBv2LyQ1X7nO50zmMjswD1iHFmSLa-PpdLp-yy5ym",
+                "width": 3264
+            }
+        ],
+        "place_id": "ChIJG3Fm3IrQDIgR5G0l6KzYIQg",
+        "plus_code": {
+            "compound_code": "4P78+7P Champaign, Illinois",
+            "global_code": "86GH4P78+7P"
+        },
+        "price_level": 1,
+        "rating": 4.1,
+        "reference": "ChIJG3Fm3IrQDIgR5G0l6KzYIQg",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 33,
+        "vicinity": "2102 W Springfield Ave, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.11042399999999,
+                "lng": -88.2306421
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.11170552989272,
+                    "lng": -88.22929197010727
+                },
+                "southwest": {
+                    "lat": 40.10900587010727,
+                    "lng": -88.23199162989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Chipotle Mexican Grill",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3472,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105665500542551935636\">Pablo Rodr\u00edguez Alberich</a>"
+                ],
+                "photo_reference": "ATplDJZiHpfVe6azVkaiUNNrlFK7qdAOtpVh1SodpAvwYtegnbme8JwlTdLsIICzJM52s227bnnMNwNGLrPj2I6F7ASCVHSOV_4qPZK_hqGSTeolJCk8i9kz66vOY8JjBLzAd4SQDcu5Hn0XBdhPzU-J3LECH6h16rvPnxDh4qG9WMJvq3TN",
+                "width": 4640
+            }
+        ],
+        "place_id": "ChIJv8lkCT_XDIgR_06HwKpZYYI",
+        "plus_code": {
+            "compound_code": "4Q69+5P Champaign, Illinois",
+            "global_code": "86GH4Q69+5P"
+        },
+        "price_level": 1,
+        "rating": 3.6,
+        "reference": "ChIJv8lkCT_XDIgR_06HwKpZYYI",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 717,
+        "vicinity": "528 E Green St, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1378838,
+                "lng": -88.2555654
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.13921282989271,
+                    "lng": -88.25424352010727
+                },
+                "southwest": {
+                    "lat": 40.13651317010727,
+                    "lng": -88.25694317989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Subway",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100936397172627989400\">Eric Bell</a>"
+                ],
+                "photo_reference": "ATplDJaxTQXtWPoMP_GVHBB5L8Gu48gr_TDmcjUgU0ncEMrH_Dzj3AaYnwPjgZJDUZYOXfcSSkgpjlgLhKLAMETkd24UltUz4oDbbuMjdUh2FTYN-jVmQktPaez_1dQLA5Od8QM1m2kzCbQPMzMJgCGu2eYq74_o3u_DTz-agNI5yYTFRa5z",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJg8SM-QXaDIgRYLXe-NKRYJQ",
+        "plus_code": {
+            "compound_code": "4PQV+5Q Champaign, Illinois",
+            "global_code": "86GH4PQV+5Q"
+        },
+        "price_level": 1,
+        "rating": 3.9,
+        "reference": "ChIJg8SM-QXaDIgRYLXe-NKRYJQ",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 167,
+        "vicinity": "706 W Marketview Dr Suite C, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.0996984,
+                "lng": -88.24476609999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.10105587989272,
+                    "lng": -88.24332587010727
+                },
+                "southwest": {
+                    "lat": 40.09835622010728,
+                    "lng": -88.24602552989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Subway",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2988,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107752562995827376219\">Joe Kraemer</a>"
+                ],
+                "photo_reference": "ATplDJbSKKGflZu5AwHI4s_PTTRMaPOShtuWgb37-hG853UzcWv8yuEj5M7O3cFuSxsFffPSFiynSTi2Kmc61MoPZRzsiJ6HCDL8N5CV2nvNJVRKQr9xKq-QKOeUwC3r1BkUzbRAyISDQ85HOXKwr86fuDzmGOWV3kVjMHr5U4T5nVD2udFZ",
+                "width": 5312
+            }
+        ],
+        "place_id": "ChIJ6ZukEi3XDIgR8jLUfOuIMuw",
+        "plus_code": {
+            "compound_code": "3QX4+V3 Champaign, Illinois",
+            "global_code": "86GH3QX4+V3"
+        },
+        "price_level": 1,
+        "rating": 3.6,
+        "reference": "ChIJ6ZukEi3XDIgR8jLUfOuIMuw",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 68,
+        "vicinity": "1403 S Neil St, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1269433,
+                "lng": -88.2386034
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.12842607989273,
+                    "lng": -88.23735697010729
+                },
+                "southwest": {
+                    "lat": 40.12572642010728,
+                    "lng": -88.24005662989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Big J J Fish & Chicken",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2830,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101061339805190865639\">A Google User</a>"
+                ],
+                "photo_reference": "ATplDJbRFQy9oJ0JyEbFG7IqvhEVy2bE0Ufpl4j6vpJ-8_qBZprgMmMWrDDZhZDc7CqXBT3diXxZphe6tPMN7q3uq99C2GpB2_nJ-oHLlGacgWpNgGPNlATdogLbAiOpAvdJQX6SwslzgsKihj7iOLymqmbQT-i6D_WU7B6uSZisdIZ8H5kj",
+                "width": 4239
+            }
+        ],
+        "place_id": "ChIJZRKmK1fXDIgRiyYKYtNerlA",
+        "plus_code": {
+            "compound_code": "4QG6+QH Champaign, Illinois",
+            "global_code": "86GH4QG6+QH"
+        },
+        "price_level": 1,
+        "rating": 4.3,
+        "reference": "ChIJZRKmK1fXDIgRiyYKYtNerlA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 651,
+        "vicinity": "1114 N Market St, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.112424,
+                "lng": -88.280937
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.11400117989272,
+                    "lng": -88.27982847010726
+                },
+                "southwest": {
+                    "lat": 40.11130152010728,
+                    "lng": -88.28252812989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Taco Bell",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 898,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107591439670909660318\">A Google User</a>"
+                ],
+                "photo_reference": "ATplDJaxZTUp7CyLyGcP2y_5Nyaiawc_Upca2f2rJb2Wz6_1_pNSMDzaoDAHE_Axa4nLppV8eboE54z8g_V26oPLjsRg9zrOFfRJj-XWk3KNYVvnUPRmiKDGrjZ_RXXUr_O_TZai3GubdfRhMuAZHlF2QpzPzFttuqmjtT4rWYcij3dG8kKQ",
+                "width": 898
+            }
+        ],
+        "place_id": "ChIJ6QP24NvRDIgRmKiUGgVtSyA",
+        "plus_code": {
+            "compound_code": "4P69+XJ Champaign, Illinois",
+            "global_code": "86GH4P69+XJ"
+        },
+        "price_level": 1,
+        "rating": 3.7,
+        "reference": "ChIJ6QP24NvRDIgRmKiUGgVtSyA",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "2003 W Springfield Ave, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.0707098,
+                "lng": -88.2494605
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.07196657989272,
+                    "lng": -88.24817772010728
+                },
+                "southwest": {
+                    "lat": 40.06926692010727,
+                    "lng": -88.25087737989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "KFC",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100006776380520939229\">norys mandera</a>"
+                ],
+                "photo_reference": "ATplDJapuiynNkFqNdHXfyJvZFwOfZqL_S9kBCodvxIXeeGUjscULwy8S021ZhvwGxyKx12FS9LNoc_9T77QIUcrQPSu7dyOez01_-Egi2kch8Ny1WrgHERpPVWKJTEErbrUJ07vBs3ZxafWGo1GgJeNYB_uUldD6i7ioBZbXchiUL3kRxrO",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJlVcbijXRDIgR6F_E2KSTO9k",
+        "plus_code": {
+            "compound_code": "3QC2+76 Savoy, Illinois",
+            "global_code": "86GH3QC2+76"
+        },
+        "price_level": 1,
+        "rating": 3.2,
+        "reference": "ChIJlVcbijXRDIgR6F_E2KSTO9k",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 248,
+        "vicinity": "1321 N Dunlap Ave, Savoy"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1104989,
+                "lng": -88.22965649999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.11174662989271,
+                    "lng": -88.22830932010727
+                },
+                "southwest": {
+                    "lat": 40.10904697010727,
+                    "lng": -88.23100897989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Subway",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2988,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107752562995827376219\">Joe Kraemer</a>"
+                ],
+                "photo_reference": "ATplDJZpYEot_aKKDLNjyB9-DXpCMVaeSaehgmnK-ilR3AMKhqxsJQh59XMfJgkSSV257bBV96WaybfAsLeWsdiabW6Yv0wfqJc15_fohc8MYINot0PvEXE0dTsAhF5vWK14riwluNd3MRghI0-jYR7X7-fS2PX213T65ZUK0ecH3Lm6KAXc",
+                "width": 5312
+            }
+        ],
+        "place_id": "ChIJhWBDnj_XDIgR4eniQCU_JxM",
+        "plus_code": {
+            "compound_code": "4Q6C+54 Champaign, Illinois",
+            "global_code": "86GH4Q6C+54"
+        },
+        "price_level": 1,
+        "rating": 4,
+        "reference": "ChIJhWBDnj_XDIgR4eniQCU_JxM",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 176,
+        "vicinity": "616 E Green St Suite A, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1268507,
+                "lng": -88.27752919999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.12817947989272,
+                    "lng": -88.27607327010728
+                },
+                "southwest": {
+                    "lat": 40.12547982010727,
+                    "lng": -88.27877292989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Subway",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3120,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115765483965983848544\">Rob Lyons</a>"
+                ],
+                "photo_reference": "ATplDJYFyPpWS0KJUb3BsJhjwk4ofqhw2-TMSo3A2qbD3o5D55k1d6o4d8eLvIG-DsOli2QY2171Qbhnw7TEFyR6yE2l0JeWxFaTyfHV4XNoWajdkN3ub5ApMv6jV_cl-xsfAsPm6DqwgYU2JwyMDf6yAhzMB4-j3y0xBIjq3QD8rvbgWS_G",
+                "width": 4160
+            }
+        ],
+        "place_id": "ChIJ5SBGU_DQDIgRX3ZDob3oeAc",
+        "plus_code": {
+            "compound_code": "4PGC+PX Champaign, Illinois",
+            "global_code": "86GH4PGC+PX"
+        },
+        "price_level": 1,
+        "rating": 4.1,
+        "reference": "ChIJ5SBGU_DQDIgRX3ZDob3oeAc",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 124,
+        "vicinity": "1101 N Mattis Ave, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.0835922,
+                "lng": -88.2967546
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.08485632989272,
+                    "lng": -88.29525097010728
+                },
+                "southwest": {
+                    "lat": 40.08215667010727,
+                    "lng": -88.29795062989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Subway",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115385098706852939290\">Yong Jun Koo</a>"
+                ],
+                "photo_reference": "ATplDJZ9Z9s4Nb5pXUMSXSK9Q4IKK2mneOfiK1tiVFfnQDTT-MmlbgYOeJc3MAUiWWCTdiF_jKqn3LuNHFkytWHcuMpvoY2LXAJyqo4CRQuDJEKVGp-iL6Rb9LiCraL8rthbNoGNLsd3morcGu2iN9ISywrZeUdjaWPSbnaW8r8bMLa9oGRr",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJZ7MnRLDRDIgRFucc-LFQFU4",
+        "plus_code": {
+            "compound_code": "3PM3+C7 Champaign, Illinois",
+            "global_code": "86GH3PM3+C7"
+        },
+        "price_level": 1,
+        "rating": 4.3,
+        "reference": "ChIJZ7MnRLDRDIgRFucc-LFQFU4",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 90,
+        "vicinity": "2409 Village Green Pl, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1404083,
+                "lng": -88.2573353
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.14175837989272,
+                    "lng": -88.25608677010727
+                },
+                "southwest": {
+                    "lat": 40.13905872010728,
+                    "lng": -88.25878642989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Steak 'n Shake",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116723746719270990685\">Sal Nudo</a>"
+                ],
+                "photo_reference": "ATplDJa7YVMPIQM0yeO8pqUwU_kmd9ZuJJogQDZO1rwdXUAtUWW7dCb2uqPkUYpWJ3Bg49KtRILty7JpimMdLoDq9P6DorJP1PBcQw8qVgHAPcfzp6gVuVLG24jj2nzVHxmwqWzlYMVDOrHmFbkXMM1sZw8-7URn2G3AqpWEDaklILEyi4xW",
+                "width": 1920
+            }
+        ],
+        "place_id": "ChIJy2E_ow_aDIgRHoY4dnu-egw",
+        "plus_code": {
+            "compound_code": "4PRV+53 Champaign, Illinois",
+            "global_code": "86GH4PRV+53"
+        },
+        "price_level": 1,
+        "rating": 3.9,
+        "reference": "ChIJy2E_ow_aDIgRHoY4dnu-egw",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1840,
+        "vicinity": "2010 N Prospect Ave, Champaign"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.1275039,
+                "lng": -88.26037559999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.12878522989272,
+                    "lng": -88.25908317010727
+                },
+                "southwest": {
+                    "lat": 40.12608557010728,
+                    "lng": -88.26178282989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Krispy Krunchy Chicken",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116364601228449896522\">A Google User</a>"
+                ],
+                "photo_reference": "ATplDJbuE-cYGgBngnSpFTt7PKyMLdwaQoyDzU99-9xt-wBjaHOkKtaWECXIiUmYEHJ_e8eAVl0VoCPKQGVZoL9q2uCgne6tU1dojxitS0KP2YPps810r1_yk3eifiedFwbC_C_m3m2fR_o5kr61wS3gUE9QVrzGyKgU6EvIw5Nvz6TEGuK8",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJRYD9rqbQDIgR2Msi21QIaPk",
+        "plus_code": {
+            "compound_code": "4PHQ+2R Champaign, Illinois",
+            "global_code": "86GH4PHQ+2R"
+        },
+        "price_level": 1,
+        "rating": 4.6,
+        "reference": "ChIJRYD9rqbQDIgR2Msi21QIaPk",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 292,
+        "vicinity": "922 W Bradley Ave, Champaign"
+    }
+]
